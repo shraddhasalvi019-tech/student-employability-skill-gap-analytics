@@ -140,16 +140,37 @@ The page provides insights into professional development and soft skills related
 
 # Project Structure
 
-```text
 Student-Employability-Skill-Gap-Analytics/
 │
 ├── undergraduate_employment_competitiveness_dataset.csv
-│
 ├── Student_Employability_Skill_Gap_Analytics.pbix
-│
 ├── README.md
 │
 └── screenshots/
     ├── page1_executive_overview.png
     ├── page2_academic_technical.png
     └── page3_professional_soft_skills.png
+
+---
+
+# Dashboard Screenshots
+
+## Page 1 — Executive Overview
+
+![Executive Overview](screenshots/screenshot1_powerBi_project.png)
+
+## Page 2 — Academic & Technical Skills Analysis
+
+![Academic & Technical Analysis](screenshots/screenshot2_powerBi_project.png)
+
+## Page 3 — Professional & Soft Skills Analysis
+
+![Professional & Soft Skills Analysis](screenshots/screenshot3_powerBi_project.png)
+
+---
+
+# Conclusion
+
+The **Student Employability & Skill Gap Analytics** dashboard provides an interactive approach to understanding different factors related to undergraduate employability.
+
+By combining academic performance, technical capabilities, internships, professional exposure, and soft skills, the dashboard transforms the given dataset into meaningful visual insights and provides an effective way to explore student employability patterns.
