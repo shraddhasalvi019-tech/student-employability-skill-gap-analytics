@@ -151,21 +151,6 @@ Student-Employability-Skill-Gap-Analytics/
     ├── page2_academic_technical.png
     └── page3_professional_soft_skills.png
 
----
-
-# Dashboard Screenshots
-
-## Page 1 — Executive Overview
-
-![Executive Overview](screenshots/screenshot1_powerBi_project.png)
-
-## Page 2 — Academic & Technical Skills Analysis
-
-![Academic & Technical Analysis](screenshots/screenshot2_powerBi_project.png)
-
-## Page 3 — Professional & Soft Skills Analysis
-
-![Professional & Soft Skills Analysis](screenshots/screenshot3_powerBi_project.png)
 
 ---
 
